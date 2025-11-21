@@ -6,16 +6,27 @@
 ```
 
 ds_<your_name>/
+
 ├── notebook_1.ipynb
+
 ├── notebook_2.ipynb (optional)
+
 ├── csv_files/
+
 │   ├── historical_data.csv
+
 │   ├── fear_greed_index.csv
+
 ├── outputs/
+
 │   ├── visualization_1.png
+
 │   ├── visualization_2.png
+
 │   ├── visualization_3.png
+
 ├── ds_report.pdf
+
 └── README.md
 
 ```
